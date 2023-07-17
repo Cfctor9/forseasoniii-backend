@@ -10,4 +10,8 @@ public class ForseasoniiiApplication {
 		SpringApplication.run(ForseasoniiiApplication.class, args);
 	}
 
+//	@GetMapping("/")
+//	public String home() {
+//		return "home";
+//	}
 }
